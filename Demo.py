@@ -2,4 +2,5 @@
 
 Shopping_list = ["Shirt", "Pants", "Shoes", "Phone", "Bags", "Pc"]
 
-print(Shopping_list[0:3])
+del Shopping_list[4]
+print (Shopping_list)
